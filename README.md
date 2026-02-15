@@ -1,8 +1,6 @@
 # 🧠 NeuroMonitor
 
-NeuroMonitor is a sophisticated web application designed for personal neurotransmitter tracking and pharmacokinetic simulation. It allows users to visualize the theoretical impact of various substances (nootropics, supplements, etc.) on their neural biochemistry in real-time.
-
-![NeuroMonitor Preview](https://via.placeholder.com/800x400?text=NeuroMonitor+Dashboard)
+NeuroMonitor is (ultimately intended to be) a sophisticated web application designed for personal neurotransmitter tracking and pharmacokinetic simulation. It allows users to visualize the theoretical impact of various substances (nootropics, supplements, etc.) on their neural biochemistry in real-time.
 
 ## ✨ Features
 
